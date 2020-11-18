@@ -2,6 +2,8 @@
 
 A simple stopwatch app with the app rating system and splash screen
 
+## App ScreenShot
+
 <table>
   <tr>
     <td>SplashScreen</td>
