@@ -1,6 +1,6 @@
 # Stopwatch
 
-A stopwatch app
+A simple stopwatch app with the app rating system and splash screen
 
 <table>
   <tr>
