@@ -2,15 +2,15 @@
 
 A stopwatch app
 
-## SplashScreen
-
-![Screenshot](https://github.com/Gursimir/Stopwatch/blob/master/app/src/main/res/drawable-v24/splashScreen.jpg)
-
-## Main Page
-
-![Screenshot](https://github.com/Gursimir/Stopwatch/blob/master/app/src/main/res/drawable-v24/timer.jpg)
-
-
-## Rating Page
-
-![Screenshot](https://github.com/Gursimir/Stopwatch/blob/master/app/src/main/res/drawable-v24/rating.jpg)
+<table>
+  <tr>
+    <td>SplashScreen</td>
+    <td>Main page</td>
+    <td>Rating Page</td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/Gursimir/Stopwatch/blob/master/app/src/main/res/drawable-v24/splashScreen.jpg" width="" height=""></td>
+    <td><img src="https://github.com/Gursimir/Stopwatch/blob/master/app/src/main/res/drawable-v24/timer.jpg"></td>
+    <td><img src="https://github.com/Gursimir/Stopwatch/blob/master/app/src/main/res/drawable-v24/rating.jpg"</td>
+  </tr>
+</table>
